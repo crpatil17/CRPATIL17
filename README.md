@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN stack developer <br>
+MERN STACK DEVELOPER || FRONTEND DEVELOPER || BACKEND DEVELOPER <br>
 I have a degree in ENTC engineering but am passionate about software development and eager to start a career in this field.
 LOOKING FOR JOB IN MERN STACK DEVELOPER,FRONT END DEVELOPER AND BACKEND DEVELOPER 
 
